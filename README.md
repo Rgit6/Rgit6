@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Rohit
-- 👀 I’m interested in "Front-End Developement"
-- 🌱 I’m currently learning "Python Fullstack Developement"
+- 👀 I’m interested in "Full Stack Web Development"
 - 💞️ I’m eagerly looking for an MNC company to pursue my dream and passion
 - 📫 Contact me : rohitorg.tech@gmail.com 
